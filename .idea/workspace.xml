@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/circle.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.078947365">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -271,12 +271,12 @@
       <created>1438710026996</created>
       <option name="number" value="Default" />
       <updated>1438710026996</updated>
-      <workItem from="1438710032238" duration="603000" />
+      <workItem from="1438710032238" duration="726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603000" />
+    <option name="totallyTimeSpent" value="726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1409" height="857" extended-state="0" />
@@ -334,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/circle.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.078947365">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding />
         </state>
       </provider>
